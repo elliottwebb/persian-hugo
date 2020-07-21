@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = 2020-07-20T21:00:00Z
 description = "gekko knows how to chill"
-draft = true
 image = "/images/pallavi-arunika-bd1zs_y04rc-unsplash.jpg"
 tags = []
 title = "It's all about gekkos, they are beautiful!"
