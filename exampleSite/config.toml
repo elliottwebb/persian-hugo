@@ -1,4 +1,4 @@
-baseURL = "https://www.gekkosnfrogs.com"
+baseURL = "https://gekkosnfrogs.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
